@@ -1,5 +1,5 @@
 let soma = 0;
-contador = 1;
+let contador = 1;
 
 while (soma <= 40) {
     soma += contador;
