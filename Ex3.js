@@ -9,6 +9,6 @@ while (soma <= 40) {
     num++;
 }
 
-console.log (`------------------------------`)
+console.log (`------------------------------`);
 console.log (`A soma final é de ${soma}`);
 console.log (`A quantidade de números somados foi de ${contador}`);
